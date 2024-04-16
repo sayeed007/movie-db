@@ -1,0 +1,17 @@
+{
+  "trending": "ট্রেন্ডিং",
+  "newReleases": "নতুন মুক্তিপ্রাপ্তি",
+  "comingSoon": "শীঘ্রই আসছে",
+  "favourites": "প্রিয়",
+  "watchLater": "পরে দেখা",
+  "details": "বিস্তারিত",
+  "movieWithId": "এই মুভি আইডি",
+  "notFound": "পাওয়া যায়নি",
+  "seeAllMovies": "সমস্ত চলচ্চিত্র দেখুন",
+  "releaseDate": "রিলিজ তারিখ",
+  "averageVote": "গড় ভোট",
+  "voteCount": "ভোটের সংখ্যা",
+  "popularity": "জনপ্রিয়তা",
+  "streamInHD": "এইচডি এ স্ট্রীম করুন",
+  "downloadInHD": "এইচডি তে ডাউনলোড করুন"
+}

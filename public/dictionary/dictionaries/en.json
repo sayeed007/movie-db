@@ -1,0 +1,17 @@
+{
+  "trending": "Trending",
+  "newReleases": "New Releases",
+  "comingSoon": "Coming Soon",
+  "favourites": "Favourites",
+  "watchLater": "Watch Later",
+  "details": "Details",
+  "movieWithId": "This movie with id",
+  "notFound": "is not found",
+  "seeAllMovies": "See all movies",
+  "releaseDate": "Release Date",
+  "averageVote": "Average Vote",
+  "voteCount": "Vote Count",
+  "popularity": "Popularity",
+  "streamInHD": "Stream In HD",
+  "downloadInHD": "Download In HD"
+}

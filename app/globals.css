@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Customized scrollbar design */
+/* For Webkit-based browsers (Chrome, Safari) */
+*::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+}
+
+*::-webkit-scrollbar-track {
+    background: #e3eff8;
+    border-radius: 10px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background: rgb(15, 117, 188);
+    border-radius: 10px;
+    height: 30px;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background: rgb(15, 117, 188);
+}
+
+/* For Firefox */
+/* * {
+    scrollbar-width: thin;
+    scrollbar-color: rgb(15, 117, 188) #e3eff8;
+} */
